@@ -1,6 +1,6 @@
 # Access check - Seguridad tecnológica 
 ## Preámbulo
-![Acess check](/src/images/Acess check/2.png)
+![Access check](/src/images/Acess check/2.png)
 
 La protección de información confidencial por parte de las empresas es de vital importancia; dentro de las múltiples soluciones que se han tomado con el paso del tiempo para salvaguardar la seguridad de los empleados y de las instalaciones mismas, ha sido el control de accesos, aun cuando las tecnologías han avanzado a tal grado que actualmente es posible brindar accesos remotos, sistemas de control de accesos que incluyen tarjetas inteligentes que pueden ser utilizadas por sistemas mecánicos y digitales, o aún pese a que para los trabajadores existen sistemas tan sofisticados que incluyen lecturas de biométricos, sin concordancia con lo anterior, la mayoría de los edificios cuentan aun con un rudimentario sistema de registro de visitantes que tiene sus bases en papel y pluma. En un contexto de ciudad metropolitana, centros de trabajo como los son los Co working´s, aquellos que buscan innovar constantemente, y para los cuales la seguridad es imprescindible, deben de contar con herramientas tecnológicas que no solo faciliten los mecanismos de registro, sino que además les permitan tener un registro constante y fácil de consultar que perdure en el tiempo.
 
